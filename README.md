@@ -60,7 +60,4 @@ This is a redis client GUI tool written based on Java SWT and Jedis. It's my obj
 
 ## Donate
  
-If you find this software useful and would like to support it, you can do so simply by scanning my Alipay two-dimension code and donating whatever you like.
-
-![My code](https://github.com/caoxinyu/RedisClient/raw/windows/src/main/resources/code.png)
- 
+If you find this software useful and would like to support it, you can do so simply by scanning my Alipay two-dimension code and donating whatever you like. 
